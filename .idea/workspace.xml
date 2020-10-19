@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="96b30bd4-9306-4cff-9374-7890e0fc6bcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vagrant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML - Personal Site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1j3TElVVzsLC09FKQiA0eeNLEJu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,6 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -36,15 +48,19 @@
       <recent name="D:\" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.home.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="Try.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web_development/Try.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web_development/home.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web_development/HTML - Personal Site/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.home.html" />
         <item itemvalue="JavaScript Debug.Try.html" />
       </list>
@@ -59,6 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603031665821</updated>
       <workItem from="1603031666883" duration="1511000" />
+      <workItem from="1603113652936" duration="1880000" />
     </task>
     <servers />
   </component>
@@ -66,6 +83,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="229" y="55" key="SettingsEditor" timestamp="1603114757071">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="229" y="55" key="SettingsEditor/0.23.1440.788@0.23.1440.788" timestamp="1603114757071" />
+    <state x="427" y="49" width="586" height="735" key="find.popup" timestamp="1603114527910">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="427" y="49" width="586" height="735" key="find.popup/0.23.1440.788@0.23.1440.788" timestamp="1603114527910" />
+    <state x="385" y="135" key="search.everywhere.popup" timestamp="1603114612896">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="385" y="135" key="search.everywhere.popup/0.23.1440.788@0.23.1440.788" timestamp="1603114612896" />
     <state x="405" y="276" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603032388871">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
