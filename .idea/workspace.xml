@@ -3,11 +3,30 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="96b30bd4-9306-4cff-9374-7890e0fc6bcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vagrant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML - Personal Site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML - Personal Site/Aneesh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML - Personal Site/word_origin.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML - Personal Site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML - Personal Site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +59,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anees\WebstormProjects\Web-Development\HTML - Personal Site" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\" />
     </key>
@@ -76,20 +98,34 @@
       <updated>1603031665821</updated>
       <workItem from="1603031666883" duration="1511000" />
       <workItem from="1603113652936" duration="1880000" />
+      <workItem from="1603267657830" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="229" y="55" key="SettingsEditor" timestamp="1603114757071">
-      <screen x="0" y="23" width="1440" height="788" />
+    <state x="217" y="18" key="SettingsEditor" timestamp="1603267723179">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="217" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603267723179" />
     <state x="229" y="55" key="SettingsEditor/0.23.1440.788@0.23.1440.788" timestamp="1603114757071" />
-    <state x="427" y="49" width="586" height="735" key="find.popup" timestamp="1603114527910">
-      <screen x="0" y="23" width="1440" height="788" />
+    <state x="405" y="24" width="556" height="680" key="find.popup" timestamp="1603267684126">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="405" y="24" width="556" height="680" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1603267684126" />
     <state x="427" y="49" width="586" height="735" key="find.popup/0.23.1440.788@0.23.1440.788" timestamp="1603114527910" />
     <state x="385" y="135" key="search.everywhere.popup" timestamp="1603114612896">
       <screen x="0" y="23" width="1440" height="788" />
